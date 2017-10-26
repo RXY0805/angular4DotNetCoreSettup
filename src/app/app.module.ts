@@ -36,6 +36,7 @@ import './rxjs-operators';
     BrowserModule,
     HttpModule,
     AppRoutingModule,
+    FormsModule,
     ReactiveFormsModule
   ],
   providers: [AuthService, AuthGuard],

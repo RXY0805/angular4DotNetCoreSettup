@@ -9,14 +9,14 @@ import { ContractorsService } from '../_services/contractors.service';
   providers: [ContractorsService]
 })
 export class ContractorsComponent implements OnInit {
-  greetings ='';
+  greetingsModel: string;
 
   constructor(private contractorsService : ContractorsService) { }
 
   ngOnInit() {
     this.contractorsService.sayHello()
     .subscribe(result => {
-      this.greetings = result;
+      this.greetingsModel= result;
     })
   }
 }
