@@ -1,0 +1,10 @@
+C:\wade\projects\navtestingDemo\bin\Debug\netcoreapp2.0\navtestingDemo.deps.json
+C:\wade\projects\navtestingDemo\bin\Debug\netcoreapp2.0\navtestingDemo.runtimeconfig.json
+C:\wade\projects\navtestingDemo\bin\Debug\netcoreapp2.0\navtestingDemo.runtimeconfig.dev.json
+C:\wade\projects\navtestingDemo\bin\Debug\netcoreapp2.0\navtestingDemo.dll
+C:\wade\projects\navtestingDemo\bin\Debug\netcoreapp2.0\navtestingDemo.pdb
+C:\wade\projects\navtestingDemo\obj\Debug\netcoreapp2.0\navtestingDemo.csproj.CoreCompileInputs.cache
+C:\wade\projects\navtestingDemo\obj\Debug\netcoreapp2.0\navtestingDemo.AssemblyInfoInputs.cache
+C:\wade\projects\navtestingDemo\obj\Debug\netcoreapp2.0\navtestingDemo.AssemblyInfo.cs
+C:\wade\projects\navtestingDemo\obj\Debug\netcoreapp2.0\navtestingDemo.dll
+C:\wade\projects\navtestingDemo\obj\Debug\netcoreapp2.0\navtestingDemo.pdb
